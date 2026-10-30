@@ -1,0 +1,8 @@
+{
+  "identifier": "israbase",
+  "name": "IsraBase",
+  "version": "1.0.0",
+  "description": "Search and read Israeli company, nonprofit and partnership registry records from data.gov.il. Read-only, no API key.",
+  "homepage": "https://github.com/ilan-builder/israbase-mcp",
+  "cloudEndpoint": "https://israbase.com/mcp"
+}
